@@ -1,18 +1,29 @@
-import { useFilms } from "@/hooks/use-films";
 import { motion } from "framer-motion";
 import { Loader2 } from "lucide-react";
 import { Link } from "wouter";
 
 export default function Films() {
-  const { data: films, isLoading } = useFilms();
+  const films = [
+  {
+    id: 1,
+    title: "Amniotic Rain",
+    slug: "amniotic-rain",
+    year: "2026",
+    status: "Completed",
+    imageUrl: "/amniotic-rain.jpg",
+    description: "Official Selection — Berlin Indie Film Festival (2026)",
+  },
+  {
+    id: 2,
+    title: "The Dispenser",
+    slug: "the-dispenser",
+    year: "2026",
+    status: "In Development",
+    imageUrl: "/the-dispenser.jpg",
+    description: "",
+  },
+];
 
-  if (isLoading) {
-    return (
-      <div className="h-screen w-full flex items-center justify-center bg-background">
-        <Loader2 className="w-6 h-6 text-white/20 animate-spin" />
-      </div>
-    );
-  }
 
   const container = {
     hidden: { opacity: 0 },
