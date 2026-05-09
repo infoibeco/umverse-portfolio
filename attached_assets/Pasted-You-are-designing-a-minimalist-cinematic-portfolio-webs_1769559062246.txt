@@ -1,0 +1,134 @@
+You are designing a minimalist cinematic portfolio website 
+for an independent creative IP studio.
+
+This website is NOT a corporate homepage.
+It is an atmospheric showcase of a world.
+
+Core references:
+- A24 official website (mood-first, minimal explanation)
+- arthouse cinema aesthetics
+- slow pacing, silence, restraint
+
+────────────────────────
+STRUCTURE
+────────────────────────
+
+Global Navigation:
+- Film
+- Fiction
+(no other main menus)
+
+No “About Us”, no mission statements, no marketing copy.
+
+────────────────────────
+VISUAL & UX RULES
+────────────────────────
+
+- Dark or desaturated background (off-black, deep blue, muted gray)
+- Generous negative space
+- Typography: elegant serif or restrained sans-serif
+- No bright colors
+- No rounded “startup” UI
+- No excessive animation
+
+Scroll behavior:
+- Slow, deliberate
+- Sections feel like scenes, not pages
+- Transitions should feel cinematic, not playful
+
+Images and videos take priority over text.
+
+────────────────────────
+HOMEPAGE
+────────────────────────
+
+Opening screen:
+- Fullscreen image or silent looping video
+- One short sentence only (maximum 12 words)
+- Sentence must feel like a philosophical statement, not a slogan
+
+Examples (do not reuse literally):
+“This world does not explain itself.”
+“Something ordinary is quietly wrong.”
+
+No buttons on first screen.
+Scroll to proceed.
+
+────────────────────────
+FILM SECTION
+────────────────────────
+
+Layout:
+- Grid or vertical list of film works
+- Each entry shows:
+  - Title
+  - Year
+  - One still image or short loop
+
+No plot summaries.
+No cast lists.
+No genre tags.
+
+Optional interaction:
+- On hover or click, reveal ONLY:
+  - One sentence (abstract, atmospheric)
+  - Duration
+
+Films should feel connected by tone, even if stories differ.
+
+────────────────────────
+FICTION SECTION
+────────────────────────
+
+Purpose:
+- Showcase written worlds as intellectual IP, not blog posts.
+
+Layout options:
+- Titles floating in space
+- Or vertical column with heavy spacing
+
+Each fiction entry includes:
+- Title
+- Year
+- One fragment of text (1–2 sentences maximum)
+
+Rules:
+- Do NOT show full texts.
+- Do NOT use synopses.
+- Text must feel incomplete, like a fragment or observation.
+
+────────────────────────
+CONTACT
+────────────────────────
+
+Contact must be subtle and optional.
+
+- No contact form.
+- Email address or minimal link only.
+- Example placement: footer, low-contrast text.
+
+Wording example tone (do not copy literally):
+“For those who wish to enter.”
+
+────────────────────────
+IMPORTANT CONSTRAINTS
+────────────────────────
+
+- Do NOT explain the world.
+- Do NOT optimize for SEO.
+- Do NOT include social media icons.
+- Do NOT include calls to action like “Submit”, “Buy”, “Subscribe”.
+
+The site should feel like:
+- an archive
+- a signal
+- an invitation without persuasion
+
+Audience:
+- curators
+- producers
+- collaborators
+- institutions
+
+The goal is not clarity.
+The goal is trust through consistency of tone.

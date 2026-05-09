@@ -1,0 +1,152 @@
+Apply the following structured updates to the existing project.
+
+CRITICAL:
+- Preserve existing layout, typography, spacing, color palette, and animations.
+- Do NOT redesign the UI.
+- Do NOT add new features (no filters, no popups, no extra pages beyond what is specified).
+- Only update content, labels, and routing as specified.
+- Keep the tone minimal, cinematic, and enterprise-grade.
+
+========================================================
+1) GLOBAL BRANDING / NAV
+
+- Set top-left brand label to:
+  UMVERSE STUDIO
+
+- Keep top navigation items (right side) exactly:
+  FILM
+  FICTION
+  ARCHIVE
+
+========================================================
+2) HOMEPAGE (HERO)
+
+Replace all hero copy with:
+
+Main:
+One hit is accidental.
+Structure is intentional.
+
+Sub:
+50+ narrative IPs across film, series, and animation.
+
+Remove any prior hero quote text (e.g., “Everything looks gentle from the outside.”).
+
+Remove the “ENTER” prompt/button/arrow if present.
+The homepage should scroll normally.
+
+========================================================
+3) HOMEPAGE SECTION: STRUCTURAL PRINCIPLES
+
+Directly below the hero, add a minimal text section:
+
+Title:
+Structural Principles
+
+Body (exact):
+53 concepts. Distributed risk.
+Korean specificity. Global scale.
+Adaptable by design.
+
+No numbering, no icons, no boxes.
+Keep generous vertical spacing.
+
+========================================================
+4) FILM PAGE (SLATE)
+
+Rename the Film page title/heading to:
+Current Slate
+
+Replace the Film page subline/description with:
+
+A structured slate of narrative IP projects
+designed for development and expansion.
+
+Update Film entries to:
+
+Amniotic Rain
+2026 — Completed
+
+Do Not Imagine
+2026 — In Development
+
+Meat Locker
+2026 — In Development
+
+Ensure:
+- Do not show “Coming Soon”.
+- Keep the existing card/layout styling.
+- If the UI expects fields like imageUrl, slug, etc., keep the same object shape and only update values.
+  (Do not break the interface.)
+
+Add a bottom link text (no button styling change required):
+Explore Complete IP Slate
+
+(No external link needed yet; prepare for future linking.)
+
+========================================================
+5) FICTION PAGE → NARRATIVE ASSETS
+
+Rename the Fiction page title/heading to:
+Narrative Assets
+
+Subline:
+Source narratives structured for cross-format adaptation.
+
+Change the Fiction layout to display ONE featured item only:
+- One ebook cover image placeholder slot (no “coming soon” text)
+
+Under the image, add:
+
+Beyond the Wall (2026)
+
+A short-form IP foundation series within the UMVERSE system.
+Four narrative units structured for adaptation and expansion.
+
+Do not include sales language.
+Do not reference Amazon or any platform.
+
+========================================================
+6) ARCHIVE: GATE PAGE + PRIVATE ACCESS PAGE
+
+A) Archive Gate Page (route: /archive) — PUBLIC
+Title:
+IP Archive
+
+Body (exact):
+Detailed development materials
+are shared selectively.
+
+For access inquiries:
+ummssun@gmail.com
+
+No PDF links on this page.
+
+B) Private Access Page (route: /archive-access) — HIDDEN
+- Create route: /archive-access
+- Do NOT show this route in main navigation.
+- Top note (exact):
+This page is privately shared.
+Please do not distribute the link.
+
+- Add a single download item/link:
+Download Full IP Brief (PDF)
+
+(Use placeholder href if needed; do not break the page.)
+
+========================================================
+7) FOOTER / CONTACT
+
+Ensure homepage footer includes:
+
+For collaboration inquiries, contact here.
+ummssun@gmail.com
+
+Do NOT create a separate Contact page.
+
+========================================================
+
+After applying changes:
+- Restart the app
+- Confirm Film/Fiction/Archive routes load without crash
+- Provide a short checklist of what was updated (no long explanation).

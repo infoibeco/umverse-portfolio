@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 0 0% 4%; /* #0a0a0a */
+  --foreground: 0 0% 90%; /* #e5e5e5 */
+  
+  --muted: 0 0% 15%;
+  --muted-foreground: 0 0% 60%;
+  
+  --card: 0 0% 4%;
+  --card-foreground: 0 0% 90%;
+  
+  --border: 0 0% 12%;
+  --input: 0 0% 12%;
+  
+  --primary: 0 0% 90%;
+  --primary-foreground: 0 0% 4%;
+  
+  --secondary: 0 0% 12%;
+  --secondary-foreground: 0 0% 90%;
+  
+  --accent: 0 0% 15%;
+  --accent-foreground: 0 0% 90%;
+  
+  --destructive: 0 60% 50%;
+  --destructive-foreground: 0 0% 98%;
+  
+  --ring: 0 0% 20%;
+  
+  --radius: 0px; /* Sharp corners for cinematic feel */
+  
+  --font-sans: 'Inter', sans-serif;
+  --font-serif: 'Lora', serif;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  
+  body {
+    @apply bg-background text-foreground font-sans antialiased selection:bg-white/20 selection:text-white;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+
+  h1, h2, h3, h4, h5, h6, .font-serif {
+    font-family: var(--font-serif);
+  }
+
+  /* Custom scrollbar for Webkit */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #333;
+    border-radius: 3px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  
+  .fade-mask-b {
+    mask-image: linear-gradient(to bottom, black 50%, transparent 100%);
+  }
+}

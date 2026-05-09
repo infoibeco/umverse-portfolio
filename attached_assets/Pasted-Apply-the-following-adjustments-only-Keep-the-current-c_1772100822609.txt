@@ -1,0 +1,84 @@
+Apply the following adjustments only. Keep the current cinematic, minimal studio design.
+
+----------------------------------------
+1) MOBILE HEADER OVERLAP FIX
+----------------------------------------
+
+Problem:
+On mobile, the UMVERSE STUDIO logo and navigation overlap.
+
+Fix:
+- On small screens, stack header layout vertically:
+  - Logo on top
+  - Navigation links below with proper spacing
+- Reduce logo size slightly on mobile if necessary.
+- Keep desktop layout (md+) unchanged.
+- Maintain dark header background and subtle border.
+- Do not redesign typography.
+
+File likely:
+client/src/components/Navigation.tsx
+
+
+----------------------------------------
+2) FOOTER TEXT LINE BREAK
+----------------------------------------
+
+Change:
+
+"For collaboration inquiries, contact here."
+
+To appear as two lines:
+
+For collaboration inquiries, contact
+here.
+
+Keep typography and tone consistent.
+Do not redesign the footer.
+
+File likely:
+client/src/components/Footer.tsx
+
+
+----------------------------------------
+3) REVERSE FILM IMAGE HOVER BEHAVIOR
+----------------------------------------
+
+Current behavior:
+Images are grayscale by default and become color on hover.
+
+Change to:
+- Default: full color
+- On hover (desktop only md+): become grayscale
+- Avoid sticky hover effect on mobile.
+
+Adjust Tailwind classes accordingly.
+Do not change layout or transitions other than reversing grayscale behavior.
+
+File:
+client/src/pages/Films.tsx
+
+
+----------------------------------------
+4) REMOVE "EXPLORE COMPLETE IP SLATE"
+----------------------------------------
+
+On the Film page:
+- Completely remove the "EXPLORE COMPLETE IP SLATE" text and link.
+- Do not replace it with anything.
+- Clean spacing after removal so there is no large empty gap.
+
+File:
+client/src/pages/Films.tsx
+
+
+----------------------------------------
+5) CONFIRMATION
+----------------------------------------
+
+After changes:
+- Confirm mobile header no longer overlaps.
+- Confirm images are color by default.
+- Confirm hover makes them grayscale (desktop only).
+- Confirm no “Explore” text remains.
+- Ensure no routing errors or crashes occur.
