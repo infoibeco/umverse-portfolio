@@ -105,10 +105,10 @@ export default function Films() {
               {/* Hover Overlay Content */}
               <div className="absolute inset-0 z-20 flex flex-col items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-500 bg-black/60 backdrop-blur-[2px] p-8 text-center">
                 <p className="font-serif text-xl italic text-white/90 mb-4 transform translate-y-4 group-hover:translate-y-0 transition-transform duration-500 delay-100">
-                  {film.abstractSentence ? `"${film.abstractSentence}"` : ""}
+                  {film.quote ? `"${film.quote}"` : ""}
                 </p>
                 <span className="text-xs uppercase tracking-widest text-white/60 transform translate-y-4 group-hover:translate-y-0 transition-transform duration-500 delay-200">
-                  {film.duration}
+                  {film.status}
                 </span>
               </div>
             </div>
@@ -119,11 +119,11 @@ export default function Films() {
                 <h2 className="text-xl md:text-2xl font-serif text-white/90 font-medium tracking-wide">
                   {film.title}
                 </h2>
-                <span className="text-sm font-mono text-white/40">{film.year} — {film.title === "Amniotic Rain" ? "Completed" : "In Development"}</span>
+               <span className="text-sm font-mono text-white/40">{film.year} — {film.status}</span>
               </div>
-              {film.festivalSelection && (
-                <span className="text-sm text-white/50">{film.festivalSelection}</span>
-              )}
+    {film.description && (
+  <span className="text-sm text-white/50">{film.description}</span>
+)}
             </div>
           </motion.article>
         ))}
