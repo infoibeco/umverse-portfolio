@@ -15,7 +15,19 @@ export interface Concept {
 }
 
 export const concepts: Concept[] = [
+    {
+    id: "social-balance-unit",
+    title: "Social Balance Unit",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/social-balance-unit.png",
+  },
   {
+    id: "companion",
+    title: "Companion",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/companion.png",
+  },
+{
     id: "the-gum",
     title: "The Gum",
     logline: "Bubble gum that reveals emotions in color.",
@@ -35,10 +47,28 @@ export const concepts: Concept[] = [
     imageUrl: "/amniotic-rain.jpg",
   },
   {
-    id: "beyond-the-wall",
-    title: "Beyond the Wall",
+    id: "social-balance-unit",
+    title: "Social Balance Unit",
     logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/beyond-the-wall.jpg",
+    imageUrl: "/social-balance-unit.png",
+  },
+  {
+    id: "companion",
+    title: "Companion",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/companion.png",
+  },
+  {
+    id: "social-balance-unit",
+    title: "Social Balance Unit",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/social-balance-unit.png",
+  },
+  {
+    id: "companion",
+    title: "Companion",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/companion.png",
   },
 
   // 아래는 템플릿 예시입니다. 스틸컷이 나오는 대로 복사해서 채워주세요.
