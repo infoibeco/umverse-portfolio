@@ -20,6 +20,7 @@ export const concepts: Concept[] = [
     title: "Social Balance Unit",
     logline: "A short-form IP foundation series within the UMVERSE system.",
     imageUrl: "/social-balance-unit.png",
+ // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
   {
     id: "companion",
@@ -27,13 +28,105 @@ export const concepts: Concept[] = [
     logline: "A short-form IP foundation series within the UMVERSE system.",
     imageUrl: "/companion.png",
   },
-{
-    id: "the-gum",
-    title: "The Gum",
-    logline: "Bubble gum that reveals emotions in color.",
-    imageUrl: "/emotion-gum.jpg",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+  {
+    id: "social-balance-unit",
+    title: "Social Balance Unit",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/social-balance-unit.png",
   },
+  {
+    id: "companion",
+    title: "Companion",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/companion.png",
+  },
+  {
+    id: "social-balance-unit",
+    title: "Social Balance Unit",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/social-balance-unit.png",
+  },
+  {
+    id: "companion",
+    title: "Companion",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/companion.png",
+  },
+  {
+    id: "social-balance-unit",
+    title: "Social Balance Unit",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/social-balance-unit.png",
+  },
+  {
+    id: "companion",
+    title: "Companion",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/companion.png",
+  },
+  {
+    id: "social-balance-unit",
+    title: "Social Balance Unit",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/social-balance-unit.png",
+  },
+  {
+    id: "companion",
+    title: "Companion",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/companion.png",
+  },
+  {
+    id: "social-balance-unit",
+    title: "Social Balance Unit",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/social-balance-unit.png",
+  },
+  {
+    id: "companion",
+    title: "Companion",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/companion.png",
+  },
+  {
+    id: "social-balance-unit",
+    title: "Social Balance Unit",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/social-balance-unit.png",
+  },
+  {
+    id: "companion",
+    title: "Companion",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/companion.png",
+  },
+  {
+    id: "social-balance-unit",
+    title: "Social Balance Unit",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/social-balance-unit.png",
+  },
+  {
+    id: "companion",
+    title: "Companion",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/companion.png",
+  },
+  {
+    id: "social-balance-unit",
+    title: "Social Balance Unit",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/social-balance-unit.png",
+  },
+  {
+    id: "companion",
+    title: "Companion",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/companion.png",
+  },
+
+
+
   {
     id: "the-dispenser",
     title: "The Dispenser",
@@ -46,30 +139,7 @@ export const concepts: Concept[] = [
     logline: "A controlled birth within a quiet system.",
     imageUrl: "/amniotic-rain.jpg",
   },
-  {
-    id: "social-balance-unit",
-    title: "Social Balance Unit",
-    logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/social-balance-unit.png",
-  },
-  {
-    id: "companion",
-    title: "Companion",
-    logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/companion.png",
-  },
-  {
-    id: "social-balance-unit",
-    title: "Social Balance Unit",
-    logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/social-balance-unit.png",
-  },
-  {
-    id: "companion",
-    title: "Companion",
-    logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/companion.png",
-  },
+
 
   // 아래는 템플릿 예시입니다. 스틸컷이 나오는 대로 복사해서 채워주세요.
   // {
