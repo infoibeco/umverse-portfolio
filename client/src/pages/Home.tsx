@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import { ConceptGrid } from "@/components/ConceptGrid";
 
 export default function Home() {
   return (
@@ -32,6 +33,9 @@ export default function Home() {
           </motion.div>
         </div>
       </section>
+
+      {/* Concept Grid Section */}
+      <ConceptGrid />
 
       {/* Structural Principles Section */}
       <section className="py-32 md:py-48 px-6 max-w-4xl mx-auto text-center">
