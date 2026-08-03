@@ -29,6 +29,20 @@ export const concepts: Concept[] = [
     imageUrl: "/companion.png",
   },
   {
+    id: "social-balance-unit",
+    title: "Social Balance Unit",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/social-balance-unit.png",
+    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+  },
+
+  {
+    id: "the-gift",
+    title: "The Gift",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/the-gift.png",
+  },
+  {
     id: "pants",
     title: "What happened to my pants?",
     logline: "A short-form IP foundation series within the UMVERSE system.",
@@ -41,19 +55,7 @@ export const concepts: Concept[] = [
     imageUrl: "/cicada-sleep.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
- {
-    id: "social-balance-unit",
-    title: "Social Balance Unit",
-    logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/social-balance-unit.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
-  },
-  {
-    id: "the-gift",
-    title: "The Gift",
-    logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/the-gift.png",
-  },
+
   {
     id: "dispenser",
     title: "The dispenser",
