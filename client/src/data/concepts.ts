@@ -16,29 +16,61 @@ export interface Concept {
 
 export const concepts: Concept[] = [
   {
-    id: "the-gum",
-    title: "The Gum",
-    logline: "Bubble gum that reveals emotions in color.",
-    imageUrl: "/emotion-gum.png",
+    id: "social-balance-unit",
+    title: "Social Balance Unit",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/social-balance-unit.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
   {
-    id: "the-dispenser",
-    title: "The Dispenser",
-    logline: "A peaceful world is a form that conceals human cruelty.",
-    imageUrl: "/the-dispenser.png",
-  },
-  {
-    id: "amniotic-rain",
-    title: "Amniotic Rain",
-    logline: "A controlled birth within a quiet system.",
-    imageUrl: "/amniotic-rain.png",
-  },
-  {
-    id: "beyond-the-wall",
-    title: "Beyond the Wall",
+    id: "companion",
+    title: "Companion",
     logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/beyond-the-wall.jpg",
+    imageUrl: "/companion.png",
+  },
+ {
+    id: "social-balance-unit",
+    title: "Social Balance Unit",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/social-balance-unit.png",
+    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+  },
+  {
+    id: "pants",
+    title: "What happened my pants?",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/pants.png",
+  },
+ {
+    id: "social-balance-unit",
+    title: "Social Balance Unit",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/social-balance-unit.png",
+    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+  },
+  {
+    id: "companion",
+    title: "Companion",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/companion.png",
+  },
+  {
+    id: "dispenser",
+    title: "The dispenser",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/dispenser.png",
+  },
+  {
+    id: "amniotic",
+    title: "Amniotic Rain",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/amniotic.png",
+  },
+  {
+    id: "emotion-gum",
+    title: "The Gum",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/emotion-gum.png",
   },
 
   // 아래는 템플릿 예시입니다. 스틸컷이 나오는 대로 복사해서 채워주세요.
