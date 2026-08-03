@@ -28,18 +28,18 @@ export const concepts: Concept[] = [
     logline: "A short-form IP foundation series within the UMVERSE system.",
     imageUrl: "/companion.png",
   },
+  {
+    id: "pants",
+    title: "What happened to my pants?",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/pants.png",
+  },
  {
     id: "cicada-sleep",
     title: "Cicada Sleep",
     logline: "A short-form IP foundation series within the UMVERSE system.",
     imageUrl: "/cicada-sleep.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
-  },
-  {
-    id: "pants",
-    title: "What happened my pants?",
-    logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/pants.png",
   },
  {
     id: "social-balance-unit",
@@ -49,10 +49,10 @@ export const concepts: Concept[] = [
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
   {
-    id: "companion",
-    title: "Companion",
+    id: "the-gift",
+    title: "The Gift",
     logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/companion.png",
+    imageUrl: "/the-gift.png",
   },
   {
     id: "dispenser",
