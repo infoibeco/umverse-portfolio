@@ -29,10 +29,10 @@ export const concepts: Concept[] = [
     imageUrl: "/companion.png",
   },
   {
-    id: "social-balance-unit",
-    title: "Social Balance Unit",
+    id: "purple",
+    title: "Purple Eyes, Purple Phobia",
     logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/social-balance-unit.png",
+    imageUrl: "/purple.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
 
