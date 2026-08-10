@@ -20,13 +20,15 @@ export const concepts: Concept[] = [
     title: "Social Balance Unit",
     logline: "A short-form IP foundation series within the UMVERSE system.",
     imageUrl: "/social-balance-unit.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+    // teaserUrl: "https://youtu.be/Gx5zQgu6V-M", // 
+teaserUrl: "https://youtu.be/79FJFfsikOc"
   },
   {
     id: "companion",
     title: "Companion",
     logline: "A short-form IP foundation series within the UMVERSE system.",
     imageUrl: "/companion.png",
+teaserUrl: "https://youtu.be/2T9VjpR2qq4",
   },
   {
     id: "purple",
