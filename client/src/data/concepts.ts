@@ -74,6 +74,30 @@ export const concepts: Concept[] = [
     logline: "A short-form IP foundation series within the UMVERSE system.",
     imageUrl: "/emotion-gum.png",
   },
+ {
+    id: "reset",
+    title: "Reset",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/reset.png",
+    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+  },
+ {
+    id: "jellyfish",
+    title: "Jellyfish",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/jellyfish.png",
+    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+  },
+  {
+    id: "jellyfish",
+    title: "Jellyfish",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/jellyfish.png",
+    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+  },
+
+
+
 
   // 아래는 템플릿 예시입니다. 스틸컷이 나오는 대로 복사해서 채워주세요.
   // {
