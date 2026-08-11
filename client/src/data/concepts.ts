@@ -20,8 +20,7 @@ export const concepts: Concept[] = [
     title: "Social Balance Unit",
     logline: "A short-form IP foundation series within the UMVERSE system.",
     imageUrl: "/social-balance-unit.png",
-    // teaserUrl: "https://youtu.be/Gx5zQgu6V-M", // 
-teaserUrl: "https://youtu.be/79FJFfsikOc"
+    teaserUrl: "https://youtu.be/Gx5zQgu6V-M",
   },
   {
     id: "companion",
@@ -83,18 +82,18 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     imageUrl: "/reset.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
- {
-    id: "arm",
-    title: "The Printed Arm",
-    logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/arm.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
-  },
   {
     id: "jellyfish",
     title: "Jellyfish",
     logline: "A short-form IP foundation series within the UMVERSE system.",
     imageUrl: "/jellyfish.png",
+    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+  },
+ {
+    id: "arm",
+    title: "The Printed Arm",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/arm.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
 
