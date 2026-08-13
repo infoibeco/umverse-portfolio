@@ -30,7 +30,7 @@ export default function Films() {
     slug: "emotion-gum",
     year: "2026",
     status: "In Development",
-    imageUrl: "/emotion-gum.png",
+    imageUrl: "", // 제작 완료되면 여기에 이미지 경로 추가 (예: "/emotion-gum.png")
     description: "Bubble gum that reveals emotions in color.",
     quote: "Bubble gum that reveals emotions in color.",
   },
@@ -96,11 +96,19 @@ export default function Films() {
             {/* Image Container */}
             <div className="relative aspect-[16/9] overflow-hidden bg-muted">
               <div className="absolute inset-0 bg-black/20 group-hover:bg-transparent transition-colors duration-700 z-10" />
-              <img 
-                src={film.imageUrl} 
-                alt={film.title}
-                className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 ease-out md:group-hover:grayscale opacity-100"
-              />
+              {film.imageUrl ? (
+                <img 
+                  src={film.imageUrl} 
+                  alt={film.title}
+                  className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 ease-out md:group-hover:grayscale opacity-100"
+                />
+              ) : (
+                <div className="w-full h-full flex items-center justify-center border border-white/10">
+                  <span className="text-xs uppercase tracking-widest text-white/30">
+                    Still Coming Soon
+                  </span>
+                </div>
+              )}
               
               {/* Hover Overlay Content */}
               <div className="absolute inset-0 z-20 flex flex-col items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-500 bg-black/60 backdrop-blur-[2px] p-8 text-center">
