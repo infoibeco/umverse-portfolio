@@ -11,7 +11,7 @@ export function ConceptGrid() {
   const hasMore = visibleCount < allConcepts.length;
 
   return (
-    <section className="px-6 md:px-12 py-24 md:py-32 max-w-[1800px] mx-auto">
+    <section className="px-6 md:px-12 pt-8 pb-24 md:pt-12 md:pb-32 max-w-[1800px] mx-auto">
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         whileInView={{ opacity: 1, y: 0 }}
