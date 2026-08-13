@@ -84,7 +84,7 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
   },
  {
     id: "arm",
-    title: "The Printed Arm",
+    title: "The Printed Body",
     logline: "A short-form IP foundation series within the UMVERSE system.",
     imageUrl: "/arm.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
