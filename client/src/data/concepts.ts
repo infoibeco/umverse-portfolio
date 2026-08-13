@@ -97,10 +97,10 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
   {
-    id: "village",
-    title: "Village Sunsong",
+    id: "gamguma",
+    title: "Gamguma",
     logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/village.png",
+    imageUrl: "/gamguma.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
   {
@@ -110,14 +110,13 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     imageUrl: "/hero.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
-  {
-    id: "jellyfish",
-    title: "Jellyfish",
+ {
+    id: "village",
+    title: "Village Sunsong",
     logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/jellyfish.png",
+    imageUrl: "/village.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
-  },
-
+  }, 
 
 
 
