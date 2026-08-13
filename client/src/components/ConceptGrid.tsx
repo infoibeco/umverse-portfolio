@@ -12,21 +12,6 @@ export function ConceptGrid() {
 
   return (
     <section className="px-6 md:px-12 pt-8 pb-24 md:pt-12 md:pb-32 max-w-[1800px] mx-auto">
-      <motion.div
-        initial={{ opacity: 0, y: 20 }}
-        whileInView={{ opacity: 1, y: 0 }}
-        viewport={{ once: true }}
-        transition={{ duration: 1 }}
-        className="mb-16 md:mb-20 text-center"
-      >
-        <h2 className="font-serif text-3xl md:text-4xl tracking-wide mb-4">
-          Concept Grid
-        </h2>
-        <p className="text-white/50 text-sm md:text-base font-light tracking-wide uppercase">
-          {allConcepts.length} concepts and counting.
-        </p>
-      </motion.div>
-
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-16 md:gap-y-20">
         {visibleConcepts.map((concept, index) => (
           <motion.article

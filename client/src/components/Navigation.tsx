@@ -7,7 +7,6 @@ export function Navigation() {
 
   const links = [
     { href: "/films", label: "Film" },
-    { href: "/fiction", label: "Fiction" },
     { href: "/archive", label: "Archive" },
   ];
 
