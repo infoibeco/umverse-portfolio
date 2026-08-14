@@ -98,6 +98,30 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     imageUrl: "/pants.png",
   },
 {
+    id: "ear",
+    title: "Eyes, Ears, Nose and Mouth",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/ear.png",
+    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+  },
+
+
+
+{
+    id: "jellyfish",
+    title: "Jellyfish",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/jellyfish.png",
+    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+  }, 
+  {
+    id: "hero",
+    title: "Hedgehog Man",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/hero.png",
+    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+  },
+{
     id: "cicada-sleep",
     title: "Cicada Sleep",
     logline: "A short-form IP foundation series within the UMVERSE system.",
@@ -114,30 +138,18 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     logline: "A short-form IP foundation series within the UMVERSE system.",
     imageUrl: "/the-gift.png",
   },
-  {
-    id: "hero",
-    title: "Hedgehog Man",
-    logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/hero.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
-  },
-  {
-    id: "jellyfish",
-    title: "Jellyfish",
-    logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/jellyfish.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
-  }, 
-
-
-
  {
     id: "zombie",
     title: "Zombie Bugs",
     logline: "A short-form IP foundation series within the UMVERSE system.",
     imageUrl: "/zombie.png",
   },
-
+{
+    id: "hair",
+    title: "Begging Hair",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/hair.png",
+  },
 
 
 
