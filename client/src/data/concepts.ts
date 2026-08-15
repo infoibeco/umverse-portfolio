@@ -142,6 +142,13 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     logline: "A short-form IP foundation series within the UMVERSE system.",
     imageUrl: "/village.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+  },
+  {
+    id: "glass",
+    title: "Beneath the Glass Floor",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/glass.png",
+    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   }, 
 {
     id: "the-gift",
@@ -149,29 +156,29 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     logline: "A short-form IP foundation series within the UMVERSE system.",
     imageUrl: "/the-gift.png",
   },
+
+
+
+
+{
+    id: "romeo-juliet",
+    title: "Romeo and Juliet Alpha",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/romeo-juliet.png",
+    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+  }, 
+{
+    id: "hair",
+    title: "Begging Hair",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/hair.png",
+  },
 {
     id: "cicada-sleep",
     title: "Cicada Sleep",
     logline: "A short-form IP foundation series within the UMVERSE system.",
     imageUrl: "/cicada-sleep.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
-  },
-
-
-
-
-  {
-    id: "romeo-juliet",
-    title: "Romeo and Juliet Alpha",
-    logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/romeo-juliet.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
-  },
-{
-    id: "hair",
-    title: "Begging Hair",
-    logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/hair.png",
   },
 
 
