@@ -60,27 +60,6 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
 
- 
-
-  {
-    id: "dispenser",
-    title: "The dispenser",
-    logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/dispenser.png",
-  },
-  {
-    id: "amniotic",
-    title: "Amniotic Rain",
-    logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/amniotic.png",
-  },
-  {
-    id: "emotion-gum",
-    title: "The Gum",
-    logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/emotion-gum.png",
-  },
-
 
 
  {
@@ -104,6 +83,29 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     imageUrl: "/ear.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
+
+ 
+
+  {
+    id: "dispenser",
+    title: "The dispenser",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/dispenser.png",
+  },
+  {
+    id: "amniotic",
+    title: "Amniotic Rain",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/amniotic.png",
+  },
+  {
+    id: "emotion-gum",
+    title: "The Gum",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/emotion-gum.png",
+  },
+
+
 
 
 
