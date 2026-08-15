@@ -38,11 +38,13 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
   },
 
 
- {
-    id: "reset",
-    title: "Reset",
+
+
+  {
+    id: "hero",
+    title: "Hedgehog Man",
     logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/reset.png",
+    imageUrl: "/hero.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
  {
@@ -63,18 +65,18 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
 
 
 
+  {
+    id: "pants",
+    title: "What happened to my pants?",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/pants.png",
+  },
 {
     id: "imagine",
     title: "Don't Imagine",
     logline: "A short-form IP foundation series within the UMVERSE system.",
     imageUrl: "/imagine.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
-  },
-  {
-    id: "pants",
-    title: "What happened to my pants?",
-    logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/pants.png",
   },
 {
     id: "ear",
@@ -114,11 +116,11 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     imageUrl: "/romeo-juliet.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
-  {
-    id: "hero",
-    title: "Hedgehog Man",
+ {
+    id: "reset",
+    title: "Reset",
     logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/hero.png",
+    imageUrl: "/reset.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
 {
