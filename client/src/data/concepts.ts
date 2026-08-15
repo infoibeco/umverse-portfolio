@@ -116,10 +116,11 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     imageUrl: "/the-gift.png",
   },
  {
-    id: "zombie",
-    title: "Zombie Bugs",
+    id: "hero",
+    title: "Hedgehog Man",
     logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/zombie.png",
+    imageUrl: "/hero.png",
+    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
 {
     id: "jellyfish",
@@ -133,7 +134,12 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
 
 
 
-
+ {
+    id: "zombie",
+    title: "Zombie Bugs",
+    logline: "A short-form IP foundation series within the UMVERSE system.",
+    imageUrl: "/zombie.png",
+  },
  {
     id: "village",
     title: "Village Sunsong",
@@ -141,13 +147,6 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     imageUrl: "/village.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   }, 
- {
-    id: "hero",
-    title: "Hedgehog Man",
-    logline: "A short-form IP foundation series within the UMVERSE system.",
-    imageUrl: "/hero.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
-  },
 {
     id: "cicada-sleep",
     title: "Cicada Sleep",
