@@ -41,13 +41,6 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
 
 
 
-{
-    id: "cicada-sleep",
-    title: "Cicada Sleep",
-    logline: "People who have endured years of failure and isolation begin attaching themselves to building walls and awakening to brief, spectacular success, but an unemployed young man discovers that the miracle consumes their entire remaining lifespan in a single brilliant season.",
-    imageUrl: "/cicada-sleep.png",
-    // teaserUrl: "https://youtu.be/8CqO602xURk", // 티저 완성되면 여기에 링크 추가
-  },
    {
     id: "arm",
     title: "The Printed Body",
@@ -62,6 +55,15 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     imageUrl: "/gamguma.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
+{
+    id: "cicada-sleep",
+    title: "Cicada Sleep",
+    logline: "People who have endured years of failure and isolation begin attaching themselves to building walls and awakening to brief, spectacular success, but an unemployed young man discovers that the miracle consumes their entire remaining lifespan in a single brilliant season.",
+    imageUrl: "/cicada-sleep.png",
+    teaserUrl: "https://youtu.be/8CqO602xURk",
+  },
+
+
 
 
 
@@ -98,13 +100,6 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
     logline: "A swarm of flesh-eating insects that emerges only once every few months attacks a wedding, trapping two friends inside an isolated villa where they must survive until sunrise—but when daylight arrives, the sound of the insects does not stop.",
     imageUrl: "/zombie.png",
   },
- {
-    id: "hero",
-    title: "Hedgehog Man",
-    logline: "A reclusive man tormented by the hard quills covering his body turns himself into an online vigilante called Hedgehog Man, allowing viewers to vote on the punishment of criminals—until a real criminal organization decides to hunt him down.",
-    imageUrl: "/hero.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
-  },
 {
     id: "jellyfish",
     title: "Jellyfish",
@@ -112,7 +107,13 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
     imageUrl: "/jellyfish.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   }, 
-
+ {
+    id: "hero",
+    title: "Hedgehog Man",
+    logline: "A reclusive man tormented by the hard quills covering his body turns himself into an online vigilante called Hedgehog Man, allowing viewers to vote on the punishment of criminals—until a real criminal organization decides to hunt him down.",
+    imageUrl: "/hero.png",
+    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+  },
 
 
 
