@@ -25,7 +25,7 @@ export const concepts: Concept[] = [
   {
     id: "companion",
     title: "Companion",
-    logline: "In a society where genetically engineered companion humans are created to ease loneliness and programmed to die before the age of twenty, a young scientist races to discover the genetic code that could save the girl he has loved as his sister since childhood.",
+    logline: "Genetically engineered “companion humans” are created to ease human loneliness—and programmed to die before the age of twenty. A young scientist races to discover the genetic code that could save the girl he has loved as his sister since childhood.",
     imageUrl: "/companion.png",
 teaserUrl: "https://youtu.be/2T9VjpR2qq4",
   },
@@ -34,17 +34,19 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     title: "Purple Eyes, Purple Phobia",
     logline: "A boy terrified of the color purple befriends a girl treated like a spectacle because of her violet eyes, and through a pair of glasses that turns their world yellow, their brief friendship gives them both the courage to face what they fear most.",
     imageUrl: "/purple.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
-  },
+    teaserUrl: "https://youtu.be/_l7e8Jnz4HM",   
+},
 
 
 
- {
-    id: "reset",
-    title: "Reset",
-    logline: "A mysterious countdown appears in the sky and every person on Earth struggles to ensure their own survival, but when the clock reaches zero, humanity discovers that its entire world is merely a computer file scheduled for deletion.",
-    imageUrl: "/reset.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+
+
+{
+    id: "cicada-sleep",
+    title: "Cicada Sleep",
+    logline: "People who have endured years of failure and isolation begin attaching themselves to building walls and awakening to brief, spectacular success, but an unemployed young man discovers that the miracle consumes their entire remaining lifespan in a single brilliant season.",
+    imageUrl: "/cicada-sleep.png",
+    // teaserUrl: "https://youtu.be/8CqO602xURk", // 티저 완성되면 여기에 링크 추가
   },
    {
     id: "arm",
@@ -76,6 +78,7 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     title: "What happened to my pants?",
     logline: "A politician who lives a richer and more perfect life in virtual reality loses the trousers from his avatar, and when he ventures into the neglected real world to repair his hacked account, he becomes the only person capable of stopping a cyberattack that could kill millions.",
     imageUrl: "/pants.png",
+teaserUrl: "https://youtu.be/x6d26p-IlQ0"
   },
 {
     id: "ear",
@@ -147,18 +150,20 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   }, 
 {
-    id: "cicada-sleep",
-    title: "Cicada Sleep",
-    logline: "People who have endured years of failure and isolation begin attaching themselves to building walls and awakening to brief, spectacular success, but an unemployed young man discovers that the miracle consumes their entire remaining lifespan in a single brilliant season.",
-    imageUrl: "/cicada-sleep.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
-  },
-{
     id: "hair",
     title: "Begging Hair",
     logline: "A woman undergoing an experimental treatment for hair loss grows beautiful living hair that feeds on blood, and the more desperately she tries to preserve her appearance, the more her hair evolves into an independent predator.",
     imageUrl: "/hair.png",
   },
+ {
+    id: "reset",
+    title: "Reset",
+    logline: "A mysterious countdown appears in the sky and every person on Earth struggles to ensure their own survival, but when the clock reaches zero, humanity discovers that its entire world is merely a computer file scheduled for deletion.",
+    imageUrl: "/reset.png",
+    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+  },
+
+
 
 
 
