@@ -21,7 +21,7 @@ export default function Films() {
     year: "2026",
     status: "Completed",
     imageUrl: "/the-dispenser.png",
-    description: "A peaceful world is a form that conceals human cruelty.",
+    description: "Official Selection — Berlin Indie Film Festival (2026) · IndieX Film Fest (2026)",
     quote: "A peaceful world is a form that conceals human cruelty.",
   },
   {
