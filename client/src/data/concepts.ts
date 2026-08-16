@@ -167,6 +167,27 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
 
 
 
+{
+    id: "pyramid",
+    title: "Time Pyramid",
+    logline: "In a society where the wealthy live in a pyramid above the clouds where time passes more slowly, a poor con artist infiltrates the elite world to destroy a powerful woman—only to discover that she is the mother who abandoned him and has barely aged since.",
+    imageUrl: "/pyramid.png",
+  },
+{
+    id: "dart",
+    title: "The Fortune Dart",
+    logline: "A boy wins the future of a magician in a mysterious dart game where every balloon contains a possible career, but after adults convince him to choose a safer life, he returns years later to reclaim his dream and discovers that the game can no longer be seen by grown-ups.",
+    imageUrl: "/dart.png",
+  },
+{
+    id: "grape",
+    title: "The Grape",
+    logline: "A man gains the power to heal anything by placing it inside a grape and removing it again, but when he hides a woman infected by a zombie inside his final grape, the fruit is swallowed by the most innocent creature imaginable.",
+    imageUrl: "/grape.png",
+  },
+
+
+
 
 {
     id: "dispenser",
