@@ -119,26 +119,28 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
 
 
  
- {
-    id: "village",
-    title: "Village Sunsong",
-    logline: "In a warm rural community populated by war survivors whose bodies have been replaced with machinery, the only child born entirely of flesh discovers that the village’s harvest festival requires a human sacrifice—and that this year, the offering is him.",
-    imageUrl: "/village.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
-  },
-  {
-    id: "glass",
-    title: "Beneath the Glass Floor",
-    logline: "After humanity covers the Earth with a glass floor to separate civilization from the protected wilderness below, an unemployed zookeeper accepts a job at an idyllic international cultural center—only to discover that humans are being prepared as the next museum exhibit.",
-    imageUrl: "/glass.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
-  }, 
+
 {
-    id: "the-gift",
-    title: "The Gift",
-    logline: "An ordinary man hides an alien that crash-lands in his garden in exchange for extraordinary abilities, but as success turns him into the alien’s captor, he discovers that he was never a gifted human—only a test subject in preparation for an invasion.",
-    imageUrl: "/the-gift.png",
+    id: "pyramid",
+    title: "Time Pyramid",
+    logline: "In a society where the wealthy live in a pyramid above the clouds where time passes more slowly, a poor con artist infiltrates the elite world to destroy a powerful woman—only to discover that she is the mother who abandoned him and has barely aged since.",
+    imageUrl: "/pyramid.png",
   },
+{
+    id: "dart",
+    title: "The Fortune Dart",
+    logline: "A boy wins the future of a magician in a mysterious dart game where every balloon contains a possible career, but after adults convince him to choose a safer life, he returns years later to reclaim his dream and discovers that the game can no longer be seen by grown-ups.",
+    imageUrl: "/dart.png",
+  },
+{
+    id: "grape",
+    title: "The Grape",
+    logline: "A man gains the power to heal anything by placing it inside a grape and removing it again, but when he hides a woman infected by a zombie inside his final grape, the fruit is swallowed by the most innocent creature imaginable.",
+    imageUrl: "/grape.png",
+  },
+
+
+
 
 
 
@@ -167,24 +169,28 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
 
 
 
-{
-    id: "pyramid",
-    title: "Time Pyramid",
-    logline: "In a society where the wealthy live in a pyramid above the clouds where time passes more slowly, a poor con artist infiltrates the elite world to destroy a powerful woman—only to discover that she is the mother who abandoned him and has barely aged since.",
-    imageUrl: "/pyramid.png",
+
+ {
+    id: "village",
+    title: "Village Sunsong",
+    logline: "In a warm rural community populated by war survivors whose bodies have been replaced with machinery, the only child born entirely of flesh discovers that the village’s harvest festival requires a human sacrifice—and that this year, the offering is him.",
+    imageUrl: "/village.png",
+    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
+  {
+    id: "glass",
+    title: "Beneath the Glass Floor",
+    logline: "After humanity covers the Earth with a glass floor to separate civilization from the protected wilderness below, an unemployed zookeeper accepts a job at an idyllic international cultural center—only to discover that humans are being prepared as the next museum exhibit.",
+    imageUrl: "/glass.png",
+    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+  }, 
 {
-    id: "dart",
-    title: "The Fortune Dart",
-    logline: "A boy wins the future of a magician in a mysterious dart game where every balloon contains a possible career, but after adults convince him to choose a safer life, he returns years later to reclaim his dream and discovers that the game can no longer be seen by grown-ups.",
-    imageUrl: "/dart.png",
+    id: "the-gift",
+    title: "The Gift",
+    logline: "An ordinary man hides an alien that crash-lands in his garden in exchange for extraordinary abilities, but as success turns him into the alien’s captor, he discovers that he was never a gifted human—only a test subject in preparation for an invasion.",
+    imageUrl: "/the-gift.png",
   },
-{
-    id: "grape",
-    title: "The Grape",
-    logline: "A man gains the power to heal anything by placing it inside a grape and removing it again, but when he hides a woman infected by a zombie inside his final grape, the fruit is swallowed by the most innocent creature imaginable.",
-    imageUrl: "/grape.png",
-  },
+
 
 
 
