@@ -55,29 +55,6 @@ export default function Home() {
           </div>
         </motion.div>
       </section>
-
-      {/* Closing / Contact Section */}
-      <section className="py-24 md:py-32 px-6 max-w-3xl mx-auto text-center border-t border-white/10">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          transition={{ duration: 1 }}
-        >
-          <p className="font-serif text-2xl md:text-3xl text-white/90 mb-12 leading-relaxed">
-            The catalog is open. Access is selective.
-          </p>
-          <p className="text-xs uppercase tracking-[0.2em] text-white/40 mb-3">
-            For Inquiries
-          </p>
-          <a
-            href="mailto:ummssun@gmail.com"
-            className="text-lg md:text-xl text-white/70 hover:text-white transition-colors duration-300 tracking-wide"
-          >
-            ummssun@gmail.com
-          </a>
-        </motion.div>
-      </section>
     </div>
   );
 }

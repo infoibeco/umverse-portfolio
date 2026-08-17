@@ -9,15 +9,17 @@ export function Footer() {
       transition={{ duration: 1 }}
       className="py-24 md:py-32 px-6 border-t border-white/5 bg-background text-center"
     >
-      <p className="font-serif italic text-muted-foreground mb-4 text-lg leading-relaxed">
-        <span className="block">For collaboration inquiries, contact</span>
-        <span className="block">here.</span>
+      <p className="font-serif text-2xl md:text-3xl text-white/90 mb-12 leading-relaxed">
+        The catalog is open. Access is selective.
+      </p>
+      <p className="text-xs uppercase tracking-[0.2em] text-white/40 mb-3">
+        For Inquiries
       </p>
       <a 
-        href="mailto:ummmsun@gmail.com" 
-        className="text-sm uppercase tracking-widest opacity-50 hover:opacity-100 transition-opacity duration-300"
+        href="mailto:ummssun@gmail.com" 
+        className="text-lg md:text-xl text-white/70 hover:text-white transition-colors duration-300 tracking-wide"
       >
-        ummmsun@gmail.com
+        ummssun@gmail.com
       </a>
     </motion.footer>
   );
