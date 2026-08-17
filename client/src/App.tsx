@@ -6,8 +6,6 @@ import { Layout } from "@/components/Layout";
 import Home from "@/pages/Home";
 import Films from "@/pages/Films";
 import Fiction from "@/pages/Fiction";
-import Archive from "@/pages/Archive";
-import ArchiveAccess from "@/pages/ArchiveAccess";
 import Slate from "@/pages/Slate";
 import NotFound from "@/pages/not-found";
 
@@ -18,8 +16,6 @@ function Router() {
         <Route path="/" component={Home} />
         <Route path="/films" component={Films} />
         <Route path="/fiction" component={Fiction} />
-        <Route path="/archive" component={Archive} />
-        <Route path="/archive-access" component={ArchiveAccess} />
         <Route path="/slate" component={Slate} />
         <Route component={NotFound} />
       </Switch>
