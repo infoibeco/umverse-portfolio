@@ -11,7 +11,7 @@ export default function Films() {
     year: "2026",
     status: "Completed",
     imageUrl: "/amniotic-rain.png",
-    description: "Official Selection — Berlin Indie Film Festival (2026) · IndieX Film Fest (2026)",
+    description: "Official Selection — Paris Lift-Off Film Festival (2026) · Berlin Indie Film Festival (2026),  Semi Finalist — IndieX Film Fest (2026)",
     quote: "A controlled birth within a quiet system.",
   },
   {
@@ -21,7 +21,7 @@ export default function Films() {
     year: "2026",
     status: "Completed",
     imageUrl: "/the-dispenser.png",
-    description: "Official Selection — Berlin Indie Film Festival (2026) · IndieX Film Fest (2026)",
+    description: "Official Selection — Paris Lift-Off Film Festival (2026) · Berlin Indie Film Festival (2026),  Semi Finalist — IndieX Film Fest (2026)",
     quote: "A peaceful world is a form that conceals human cruelty.",
   },
   {
