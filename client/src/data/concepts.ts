@@ -159,11 +159,10 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
     imageUrl: "/hair.png",
   },
  {
-    id: "reset",
-    title: "Reset",
-    logline: "A mysterious countdown appears in the sky and every person on Earth struggles to ensure their own survival, but when the clock reaches zero, humanity discovers that its entire world is merely a computer file scheduled for deletion.",
-    imageUrl: "/reset.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+    id: "monkey",
+    title: "The Dazzling Rear",
+    logline: "A man awakens in the savanna to discover that he has become a monkey with a spectacular red backside, and after surviving the violent hierarchy of the wild, he returns to his human body carrying physical evidence that the transformation was not a dream.",
+    imageUrl: "/monkey.png",
   },
 
 
@@ -195,10 +194,10 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
 
 
  {
-    id: "jack",
-    title: "Jack and the Bean Sprout",
-    logline: "Jack, an impoverished dawn-delivery driver, climbs a giant bean sprout into the land of giants and befriends one of its inhabitants, but when he learns that humans are considered luxury ingredients for the king’s birthday feast, he must escape before he is served.",
-    imageUrl: "/jack.png",
+    id: "1+1",
+    title: "One Plus One",
+    logline: "A supermarket owner acquires a machine that can duplicate any living organism and decides to clone the woman he loves rather than lose her to another man, but the machine does not create additional life—it divides the original life between the two copies.",
+    imageUrl: "/1+1.png",
   },
  {
     id: "utopia",
@@ -207,28 +206,28 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
     imageUrl: "/utopia.png",
   },
  {
+    id: "jack",
+    title: "Jack and the Bean Sprout",
+    logline: "Jack, an impoverished dawn-delivery driver, climbs a giant bean sprout into the land of giants and befriends one of its inhabitants, but when he learns that humans are considered luxury ingredients for the king’s birthday feast, he must escape before he is served.",
+    imageUrl: "/jack.png",
+  },
+
+
+
+
+
+ {
     id: "jo",
     title: "JO MALONG",
     logline: "A gifted perfumer becomes internationally famous for fragrances that recreate other people’s memories, but when an investor distributes the formula as an addictive narcotic, human experience becomes the most valuable commodity on the black market.",
     imageUrl: "/jo.png",
   },
-
-
-
-
-
-
  {
-    id: "monkey",
-    title: "The Dazzling Rear",
-    logline: "A man awakens in the savanna to discover that he has become a monkey with a spectacular red backside, and after surviving the violent hierarchy of the wild, he returns to his human body carrying physical evidence that the transformation was not a dream.",
-    imageUrl: "/monkey.png",
-  },
- {
-    id: "1+1",
-    title: "One Plus One",
-    logline: "A supermarket owner acquires a machine that can duplicate any living organism and decides to clone the woman he loves rather than lose her to another man, but the machine does not create additional life—it divides the original life between the two copies.",
-    imageUrl: "/1+1.png",
+    id: "reset",
+    title: "Reset",
+    logline: "A mysterious countdown appears in the sky and every person on Earth struggles to ensure their own survival, but when the clock reaches zero, humanity discovers that its entire world is merely a computer file scheduled for deletion.",
+    imageUrl: "/reset.png",
+    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
  {
     id: "portrait",
