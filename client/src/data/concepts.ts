@@ -216,6 +216,28 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
 
 
 
+ {
+    id: "jo",
+    title: "JO MALONG",
+    logline: "A gifted perfumer becomes internationally famous for fragrances that recreate other people’s memories, but when an investor distributes the formula as an addictive narcotic, human experience becomes the most valuable commodity on the black market.",
+    imageUrl: "/jo.png",
+  },
+ {
+    id: "monkey",
+    title: "The Dazzling Rear",
+    logline: "A man awakens in the savanna to discover that he has become a monkey with a spectacular red backside, and after surviving the violent hierarchy of the wild, he returns to his human body carrying physical evidence that the transformation was not a dream.",
+    imageUrl: "/monkey.png",
+  },
+ {
+    id: "portrait",
+    title: "The Aging Portrait",
+    logline: "When the portrait of a cosmetics tycoon begins aging alongside her, she becomes obsessed with preserving her youth at any cost, even using the blood of the young—only to discover that the portrait, not the woman, has been granted eternal beauty.",
+    imageUrl: "/portrait.png",
+  },
+
+
+
+
 {
     id: "dispenser",
     title: "The dispenser",
