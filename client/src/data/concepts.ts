@@ -260,8 +260,6 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
  
 
 
-
- Trypophobia
 {
     id: "hole",
     title: "Trypophobia",
