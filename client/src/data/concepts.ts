@@ -261,7 +261,15 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
 
 
 
- 
+ Trypophobia
+{
+    id: "hole",
+    title: "Trypophobia",
+    logline: "When thousands of black holes suddenly appear across the streets of an overheated city, the terrified public rushes to seal them, but a researcher discovers that they are respiratory organs created by a dying planet struggling to breathe.",
+    imageUrl: "/hole.png",
+  },
+
+
 
 
 
