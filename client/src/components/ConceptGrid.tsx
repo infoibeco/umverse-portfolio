@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { concepts as allConcepts } from "@/data/concepts";
 
-const PAGE_SIZE = 9;
+const PAGE_SIZE = 18;
 
 export function ConceptGrid() {
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
