@@ -168,6 +168,28 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
 
 
 
+ {
+    id: "1+1",
+    title: "One Plus One",
+    logline: "A supermarket owner acquires a machine that can duplicate any living organism and decides to clone the woman he loves rather than lose her to another man, but the machine does not create additional life—it divides the original life between the two copies.",
+    imageUrl: "/1+1.png",
+  },
+{
+    id: "hole",
+    title: "Trypophobia",
+    logline: "When thousands of black holes suddenly appear across the streets of an overheated city, the terrified public rushes to seal them, but a researcher discovers that they are respiratory organs created by a dying planet struggling to breathe.",
+    imageUrl: "/hole.png",
+  },{
+    id: "table",
+    title: "Moral Appetite",
+    logline: "A man who condemns meat eaters and considers himself morally superior prepares to enjoy an ethical vegan meal, then casually crushes a tiny spider that has wandered onto his table.",
+    imageUrl: "/table.png",
+  },
+
+
+
+
+
 
  {
     id: "village",
@@ -193,11 +215,16 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
 
 
 
+
+
+
+
+
  {
-    id: "1+1",
-    title: "One Plus One",
-    logline: "A supermarket owner acquires a machine that can duplicate any living organism and decides to clone the woman he loves rather than lose her to another man, but the machine does not create additional life—it divides the original life between the two copies.",
-    imageUrl: "/1+1.png",
+    id: "jo",
+    title: "JO MALONG",
+    logline: "A gifted perfumer becomes internationally famous for fragrances that recreate other people’s memories, but when an investor distributes the formula as an addictive narcotic, human experience becomes the most valuable commodity on the black market.",
+    imageUrl: "/jo.png",
   },
  {
     id: "utopia",
@@ -216,11 +243,11 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
 
 
 
- {
-    id: "jo",
-    title: "JO MALONG",
-    logline: "A gifted perfumer becomes internationally famous for fragrances that recreate other people’s memories, but when an investor distributes the formula as an addictive narcotic, human experience becomes the most valuable commodity on the black market.",
-    imageUrl: "/jo.png",
+{
+    id: "art",
+    title: "What Art Is For",
+    logline: "The last human artist in a society governed by robots refuses to modify his sculptures of human suffering to fit standardized exhibition requirements, only to watch machines applaud a decapitated human figure as a beautiful example of mankind’s imperfection.",
+    imageUrl: "/art.png",
   },
  {
     id: "reset",
@@ -234,25 +261,6 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
     title: "The Aging Portrait",
     logline: "When the portrait of a cosmetics tycoon begins aging alongside her, she becomes obsessed with preserving her youth at any cost, even using the blood of the young—only to discover that the portrait, not the woman, has been granted eternal beauty.",
     imageUrl: "/portrait.png",
-  },
-
-
-
-{
-    id: "hole",
-    title: "Trypophobia",
-    logline: "When thousands of black holes suddenly appear across the streets of an overheated city, the terrified public rushes to seal them, but a researcher discovers that they are respiratory organs created by a dying planet struggling to breathe.",
-    imageUrl: "/hole.png",
-  },{
-    id: "table",
-    title: "Moral Appetite",
-    logline: "A man who condemns meat eaters and considers himself morally superior prepares to enjoy an ethical vegan meal, then casually crushes a tiny spider that has wandered onto his table.",
-    imageUrl: "/table.png",
-  },{
-    id: "art",
-    title: "What Art Is For",
-    logline: "The last human artist in a society governed by robots refuses to modify his sculptures of human suffering to fit standardized exhibition requirements, only to watch machines applaud a decapitated human figure as a beautiful example of mankind’s imperfection.",
-    imageUrl: "/art.png",
   },
 
 
