@@ -53,7 +53,7 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     title: "Gamguma",
     logline: "When a genetically engineered hybrid crop that restores youth and protects against disease is hoarded by the wealthy, a desperate woman joins a band of modern-day raiders who break into the bunkers of the rich to save her dying sister.",
     imageUrl: "/gamguma.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+    teaserUrl: "https://youtu.be/GO00W0B_pw4",
   },
 {
     id: "cicada-sleep",
@@ -112,7 +112,7 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
     title: "Hedgehog Man",
     logline: "A reclusive man tormented by the hard quills covering his body turns himself into an online vigilante called Hedgehog Man, allowing viewers to vote on the punishment of criminals—until a real criminal organization decides to hunt him down.",
     imageUrl: "/hero.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+    teaserUrl: "https://youtu.be/q81IjLc0gOI",
   },
 
 
@@ -238,6 +238,25 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
 
 
 
+{
+    id: "hole",
+    title: "Trypophobia",
+    logline: "When thousands of black holes suddenly appear across the streets of an overheated city, the terrified public rushes to seal them, but a researcher discovers that they are respiratory organs created by a dying planet struggling to breathe.",
+    imageUrl: "/hole.png",
+  },{
+    id: "table",
+    title: "Moral Appetite",
+    logline: "A man who condemns meat eaters and considers himself morally superior prepares to enjoy an ethical vegan meal, then casually crushes a tiny spider that has wandered onto his table.",
+    imageUrl: "/table.png",
+  },{
+    id: "art",
+    title: "What Art Is For",
+    logline: "The last human artist in a society governed by robots refuses to modify his sculptures of human suffering to fit standardized exhibition requirements, only to watch machines applaud a decapitated human figure as a beautiful example of mankind’s imperfection.",
+    imageUrl: "/art.png",
+  },
+
+
+
 
 {
     id: "dispenser",
@@ -259,13 +278,6 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
   },
  
 
-
-{
-    id: "hole",
-    title: "Trypophobia",
-    logline: "When thousands of black holes suddenly appear across the streets of an overheated city, the terrified public rushes to seal them, but a researcher discovers that they are respiratory organs created by a dying planet struggling to breathe.",
-    imageUrl: "/hole.png",
-  },
 
 
 
