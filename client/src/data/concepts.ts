@@ -73,7 +73,7 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     title: "Don't Imagine",
     logline: "A woman raised to believe she suffers from a severe memory disorder stops taking her medication and discovers that she was never ill—her family and doctors have been suppressing her ability to make anything she imagines become real.",
     imageUrl: "/imagine.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
+    teaserUrl: "https://youtu.be/TWu3Mcnmw-8",
   },
   {
     id: "pants",
@@ -87,8 +87,8 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
     title: "Eyes, Ears, Nose and Mouth",
     logline: "Four children who each lose a different sense in a building collapse learn to function as a single extraordinary team, and when they uncover the identity of a serial killer, they become the world’s most incomplete group of superheroes.",
     imageUrl: "/ear.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
-  },
+    teaserUrl: "https://youtu.be/1zBGvCNnXGY", 
+},
 
 
 
@@ -99,6 +99,7 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
     title: "Zombie Bugs",
     logline: "A swarm of flesh-eating insects that emerges only once every few months attacks a wedding, trapping two friends inside an isolated villa where they must survive until sunrise—but when daylight arrives, the sound of the insects does not stop.",
     imageUrl: "/zombie.png",
+    teaserUrl: "https://youtu.be/nlyrQWql17E",
   },
 {
     id: "jellyfish",
@@ -262,6 +263,29 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
     logline: "When the portrait of a cosmetics tycoon begins aging alongside her, she becomes obsessed with preserving her youth at any cost, even using the blood of the young—only to discover that the portrait, not the woman, has been granted eternal beauty.",
     imageUrl: "/portrait.png",
   },
+
+
+
+{
+    id: "memory",
+    title: "Afterimage",
+    logline: "Ten years after a stranger in a Hong Kong nightclub mistakes her for another woman and kisses her, a woman unexpectedly meets him again and becomes obsessed with discovering whether the desire preserved in her memory can survive a real relationship",
+    imageUrl: "/memory.png",
+  },
+{
+    id: "langsa",
+    title: "LANGSA",
+    logline: "A man and woman are given Langsa, a drug that makes people feel hatred instead of love when they meet their destined partner, and after spending their lives despising one another, they discover that their hatred has slowly fermented into the deepest form of devotion.",
+    imageUrl: "/langsa.png",
+  },
+{
+    id: "1sec",
+    title: "1-Second Wonder",
+    logline: "In a world where everyone can use a superpower for exactly one second, a man saves a child with his own body instead of using his ability and is prosecuted for criminal negligence—until God appears in court and offers him one wish that could alter the fate of humanity",
+    imageUrl: "/1sec.png",
+  },
+
+
 
 
 
