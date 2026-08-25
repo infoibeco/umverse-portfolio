@@ -193,26 +193,49 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
 
 
 
-
-{
-    id: "langsa",
-    title: "LANGSA",
-    logline: "A man and woman are given Langsa, a drug that makes people feel hatred instead of love when they meet their destined partner, and after spending their lives despising one another, they discover that their hatred has slowly fermented into the deepest form of devotion.",
-    imageUrl: "/langsa.png",
-  },
-{
-    id: "hole",
-    title: "Trypophobia",
-    logline: "When thousands of black holes suddenly appear across the streets of an overheated city, the terrified public rushes to seal them, but a researcher discovers that they are respiratory organs created by a dying planet struggling to breathe.",
-    imageUrl: "/hole.png",
-  },
-
 {
     id: "table",
     title: "Moral Appetite",
     logline: "A man who condemns meat eaters and considers himself morally superior prepares to enjoy an ethical vegan meal, then casually crushes a tiny spider that has wandered onto his table.",
     imageUrl: "/table.png",
   },
+ {
+    id: "jack",
+    title: "Jack and the Bean Sprout",
+    logline: "Jack, an impoverished dawn-delivery driver, climbs a giant bean sprout into the land of giants and befriends one of its inhabitants, but when he learns that humans are considered luxury ingredients for the king’s birthday feast, he must escape before he is served.",
+    imageUrl: "/jack.png",
+  },
+{
+    id: "langsa",
+    title: "LANGSA",
+    logline: "A man and woman are given Langsa, a drug that makes people feel hatred instead of love when they meet their destined partner, and after spending their lives despising one another, they discover that their hatred has slowly fermented into the deepest form of devotion.",
+    imageUrl: "/langsa.png",
+  },
+
+
+
+
+
+
+{
+    id: "hole",
+    title: "Trypophobia",
+    logline: "When thousands of black holes suddenly appear across the streets of an overheated city, the terrified public rushes to seal them, but a researcher discovers that they are respiratory organs created by a dying planet struggling to breathe.",
+    imageUrl: "/hole.png",
+  },
+{
+    id: "1+1",
+    title: "One Plus One",
+    logline: "A supermarket owner acquires a machine that can duplicate any living organism and decides to clone the woman he loves rather than lose her to another man, but the machine does not create additional life—it divides the original life between the two copies.",
+    imageUrl: "/1+1.png",
+  },
+{
+    id: "memory",
+    title: "Afterimage",
+    logline: "Ten years after a stranger in a Hong Kong nightclub mistakes her for another woman and kisses her, a woman unexpectedly meets him again and becomes obsessed with discovering whether the desire preserved in her memory can survive a real relationship",
+    imageUrl: "/memory.png",
+  },
+
 
 
 
@@ -230,23 +253,6 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
     logline: "A woman enters a community that promises a perfect retirement in exchange for forty years of labor, only to discover that its elderly residents are being fattened in luxury and harvested as food for an unseen creature.",
     imageUrl: "/utopia.png",
   },
-{
-    id: "memory",
-    title: "Afterimage",
-    logline: "Ten years after a stranger in a Hong Kong nightclub mistakes her for another woman and kisses her, a woman unexpectedly meets him again and becomes obsessed with discovering whether the desire preserved in her memory can survive a real relationship",
-    imageUrl: "/memory.png",
-  },
-
-
-
-
-
- {
-    id: "jack",
-    title: "Jack and the Bean Sprout",
-    logline: "Jack, an impoverished dawn-delivery driver, climbs a giant bean sprout into the land of giants and befriends one of its inhabitants, but when he learns that humans are considered luxury ingredients for the king’s birthday feast, he must escape before he is served.",
-    imageUrl: "/jack.png",
-  },
  {
     id: "reset",
     title: "Reset",
@@ -254,12 +260,7 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
     imageUrl: "/reset.png",
     // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
   },
- {
-    id: "portrait",
-    title: "The Aging Portrait",
-    logline: "When the portrait of a cosmetics tycoon begins aging alongside her, she becomes obsessed with preserving her youth at any cost, even using the blood of the young—only to discover that the portrait, not the woman, has been granted eternal beauty.",
-    imageUrl: "/portrait.png",
-  },
+
 
 
 
@@ -269,18 +270,18 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
     title: "What Art Is For",
     logline: "The last human artist in a society governed by robots refuses to modify his sculptures of human suffering to fit standardized exhibition requirements, only to watch machines applaud a decapitated human figure as a beautiful example of mankind’s imperfection.",
     imageUrl: "/art.png",
-  },
- {
-    id: "1+1",
-    title: "One Plus One",
-    logline: "A supermarket owner acquires a machine that can duplicate any living organism and decides to clone the woman he loves rather than lose her to another man, but the machine does not create additional life—it divides the original life between the two copies.",
-    imageUrl: "/1+1.png",
-  },
+  }, 
 {
     id: "1sec",
     title: "1-Second Wonder",
     logline: "In a world where everyone can use a superpower for exactly one second, a man saves a child with his own body instead of using his ability and is prosecuted for criminal negligence—until God appears in court and offers him one wish that could alter the fate of humanity",
     imageUrl: "/1sec.png",
+  },
+ {
+    id: "portrait",
+    title: "The Aging Portrait",
+    logline: "When the portrait of a cosmetics tycoon begins aging alongside her, she becomes obsessed with preserving her youth at any cost, even using the blood of the young—only to discover that the portrait, not the woman, has been granted eternal beauty.",
+    imageUrl: "/portrait.png",
   },
 
 
