@@ -119,18 +119,17 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
 
 
 
- 
 {
-    id: "langsa",
-    title: "LANGSA",
-    logline: "A man and woman are given Langsa, a drug that makes people feel hatred instead of love when they meet their destined partner, and after spending their lives despising one another, they discover that their hatred has slowly fermented into the deepest form of devotion.",
-    imageUrl: "/langsa.png",
+    id: "pyramid",
+    title: "Time Pyramid",
+    logline: "In a society where the wealthy live in a pyramid above the clouds where time passes more slowly, a poor con artist infiltrates the elite world to destroy a powerful woman—only to discover that she is the mother who abandoned him and has barely aged since.",
+    imageUrl: "/pyramid.png",
   },
 {
-    id: "hole",
-    title: "Trypophobia",
-    logline: "When thousands of black holes suddenly appear across the streets of an overheated city, the terrified public rushes to seal them, but a researcher discovers that they are respiratory organs created by a dying planet struggling to breathe.",
-    imageUrl: "/hole.png",
+    id: "dart",
+    title: "The Fortune Dart",
+    logline: "A boy wins the future of a magician in a mysterious dart game where every balloon contains a possible career, but after adults convince him to choose a safer life, he returns years later to reclaim his dream and discovers that the game can no longer be seen by grown-ups.",
+    imageUrl: "/dart.png",
   },
 {
     id: "grape",
@@ -196,17 +195,18 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
 
 
 {
-    id: "pyramid",
-    title: "Time Pyramid",
-    logline: "In a society where the wealthy live in a pyramid above the clouds where time passes more slowly, a poor con artist infiltrates the elite world to destroy a powerful woman—only to discover that she is the mother who abandoned him and has barely aged since.",
-    imageUrl: "/pyramid.png",
+    id: "langsa",
+    title: "LANGSA",
+    logline: "A man and woman are given Langsa, a drug that makes people feel hatred instead of love when they meet their destined partner, and after spending their lives despising one another, they discover that their hatred has slowly fermented into the deepest form of devotion.",
+    imageUrl: "/langsa.png",
   },
 {
-    id: "dart",
-    title: "The Fortune Dart",
-    logline: "A boy wins the future of a magician in a mysterious dart game where every balloon contains a possible career, but after adults convince him to choose a safer life, he returns years later to reclaim his dream and discovers that the game can no longer be seen by grown-ups.",
-    imageUrl: "/dart.png",
+    id: "hole",
+    title: "Trypophobia",
+    logline: "When thousands of black holes suddenly appear across the streets of an overheated city, the terrified public rushes to seal them, but a researcher discovers that they are respiratory organs created by a dying planet struggling to breathe.",
+    imageUrl: "/hole.png",
   },
+
 {
     id: "table",
     title: "Moral Appetite",
