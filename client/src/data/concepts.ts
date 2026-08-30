@@ -46,8 +46,8 @@ teaserUrl: "https://youtu.be/2T9VjpR2qq4",
     title: "The Printed Body",
     logline: "After receiving a 3D-printed arm, a man falls in love with a woman whose transplanted ear bears the same model number—then discovers a body beneath the hospital with both of their missing parts cut from it.",
     imageUrl: "/arm.png",
-    // teaserUrl: "https://youtu.be/xxxxxxxx", // 티저 완성되면 여기에 링크 추가
-  },
+    teaserUrl: "https://youtu.be/0ZGtyEzyErg",  
+},
  {
     id: "gamguma",
     title: "Gamguma",
@@ -136,6 +136,7 @@ teaserUrl: "https://youtu.be/x6d26p-IlQ0"
     title: "The Grape",
     logline: "A man gains the power to heal anything by placing it inside a grape and removing it again, but when he hides a woman infected by a zombie inside his final grape, the fruit is swallowed by the most innocent creature imaginable.",
     imageUrl: "/grape.png",
+    teaserUrl: "https://youtu.be/abkvVE_RbwA",
   },
 
 
